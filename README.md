@@ -14,7 +14,7 @@ This repository documents my journey of practicing **Java programming consistent
 | ------ | --------------------------------- | ----------- |
 | Day 1  | Java Basics, Arrays & Subarrays   | ✅ Completed |
 | Day 2  | Java Programs & Array Problems    | ✅ Completed |
-| Day 3  | DSA Practice, Stack & Linked List | ✅ Completed |
+| Day 3  | DSA Practice, Stack & Binary Tree | ✅ Completed |
 | Day 4  | Coming Soon                       | ⏳           |
 | Day 5  | Coming Soon                       | ⏳           |
 | Day 6  | Coming Soon                       | ⏳           |
