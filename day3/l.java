@@ -115,7 +115,6 @@ public class l {
     {
         int diam;
         int heig;
-
         public info(int diam,int heig)
         {
             this.diam=diam;
