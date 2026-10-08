@@ -10,38 +10,38 @@ This repository documents my journey of practicing **Java programming consistent
 
 ## 📅 Challenge Progress
 
-| Day    | Topics / Practice                 | Status      |
-| ------ | --------------------------------- | ----------- |
-| Day 1  | Java Basics, Arrays & Subarrays   | ✅ Completed |
-| Day 2  | Java Programs & Array Problems    | ✅ Completed |
-| Day 3  | DSA Practice, Stack & Binary Tree | ✅ Completed |
-| Day 4  | TopviewTree,Subtreeofanothertree  | ✅ Completed |
-| Day 5  | Coming Soon                       | ⏳           |
-| Day 6  | Coming Soon                       | ⏳           |
-| Day 7  | Coming Soon                       | ⏳           |
-| Day 8  | Coming Soon                       | ⏳           |
-| Day 9  | Coming Soon                       | ⏳           |
-| Day 10 | Coming Soon                       | ⏳           |
-| Day 11 | Coming Soon                       | ⏳           |
-| Day 12 | Coming Soon                       | ⏳           |
-| Day 13 | Coming Soon                       | ⏳           |
-| Day 14 | Coming Soon                       | ⏳           |
-| Day 15 | Coming Soon                       | ⏳           |
-| Day 16 | Coming Soon                       | ⏳           |
-| Day 17 | Coming Soon                       | ⏳           |
-| Day 18 | Coming Soon                       | ⏳           |
-| Day 19 | Coming Soon                       | ⏳           |
-| Day 20 | Coming Soon                       | ⏳           |
-| Day 21 | Coming Soon                       | ⏳           |
-| Day 22 | Coming Soon                       | ⏳           |
-| Day 23 | Coming Soon                       | ⏳           |
-| Day 24 | Coming Soon                       | ⏳           |
-| Day 25 | Coming Soon                       | ⏳           |
-| Day 26 | Coming Soon                       | ⏳           |
-| Day 27 | Coming Soon                       | ⏳           |
-| Day 28 | Coming Soon                       | ⏳           |
-| Day 29 | Coming Soon                       | ⏳           |
-| Day 30 | Coming Soon                       | ⏳           |
+| Day    | Topics / Practice                          | Status      |
+| ------ | ------------------------------------------ | ----------- |
+| Day 1  | Java Basics, Arrays & Subarrays            | ✅ Completed |
+| Day 2  | Java Programs & Array Problems             | ✅ Completed |
+| Day 3  | DSA Practice, Stack & Binary Tree          | ✅ Completed |
+| Day 4  | Top View of Tree & Subtree of Another Tree | ✅ Completed |
+| Day 5  | Object-Oriented Programming & Inheritance  | ✅ Completed |
+| Day 6  | Coming Soon                                | ⏳           |
+| Day 7  | Coming Soon                                | ⏳           |
+| Day 8  | Coming Soon                                | ⏳           |
+| Day 9  | Coming Soon                                | ⏳           |
+| Day 10 | Coming Soon                                | ⏳           |
+| Day 11 | Coming Soon                                | ⏳           |
+| Day 12 | Coming Soon                                | ⏳           |
+| Day 13 | Coming Soon                                | ⏳           |
+| Day 14 | Coming Soon                                | ⏳           |
+| Day 15 | Coming Soon                                | ⏳           |
+| Day 16 | Coming Soon                                | ⏳           |
+| Day 17 | Coming Soon                                | ⏳           |
+| Day 18 | Coming Soon                                | ⏳           |
+| Day 19 | Coming Soon                                | ⏳           |
+| Day 20 | Coming Soon                                | ⏳           |
+| Day 21 | Coming Soon                                | ⏳           |
+| Day 22 | Coming Soon                                | ⏳           |
+| Day 23 | Coming Soon                                | ⏳           |
+| Day 24 | Coming Soon                                | ⏳           |
+| Day 25 | Coming Soon                                | ⏳           |
+| Day 26 | Coming Soon                                | ⏳           |
+| Day 27 | Coming Soon                                | ⏳           |
+| Day 28 | Coming Soon                                | ⏳           |
+| Day 29 | Coming Soon                                | ⏳           |
+| Day 30 | Coming Soon                                | ⏳           |
 
 ---
 
@@ -64,6 +64,12 @@ This repository documents my journey of practicing **Java programming consistent
 │   ├── s.java
 │   ├── st.java
 │   └── t.java
+│
+├── day4/
+│   └── Java programs and DSA practice
+│
+├── day5/
+│   └── Inheritance.java
 │
 ├── oop.java
 │
@@ -97,7 +103,26 @@ This repository documents my journey of practicing **Java programming consistent
 * Stack-based problems
 * Linked List concepts
 * Node-based data structures
+* Binary Tree concepts
 * Java implementation practice
+
+### Day 4
+
+* Binary Trees
+* Top View of a Binary Tree
+* Subtree of Another Tree
+* Tree traversal
+* Recursive problem solving
+* Java implementation of tree-based problems
+
+### Day 5
+
+* Object-Oriented Programming
+* Inheritance
+* Parent and child classes
+* Code reusability
+* Method inheritance
+* Java OOP implementation
 
 ---
 
@@ -119,14 +144,14 @@ The main goals of this challenge are:
 ## 📊 Current Progress
 
 ```text
-Days Completed: 3 / 30
+Days Completed: 5 / 30
 
-Progress: ███░░░░░░░░░░░░░░░░░░░░░░░ 10%
+Progress: █████░░░░░░░░░░░░░░░░░░░░░ 16.67%
 ```
 
 ### 🔥 Consistency Streak
 
-**3 Days Completed ✅**
+**5 Days Completed ✅**
 
 Every day, I will add new Java programs and update the progress section of this repository.
 
@@ -147,4 +172,24 @@ Every day, I will add new Java programs and update the progress section of this 
 1. Code every day for 30 days.
 2. Practice Java consistently.
 3. Solve problems instead of only reading concepts.
-4. Com
+4. Focus on understanding the logic behind every solution.
+5. Write and maintain clean, readable Java code.
+6. Commit the day's work to GitHub.
+7. Update the README as the challenge progresses.
+8. Complete all 30 days without breaking the consistency streak.
+
+---
+
+## 🌱 Why This Challenge?
+
+Consistency is one of the most important skills in programming.
+
+This challenge is not just about completing 30 days of coding. It is about building a habit of **learning, practicing, solving problems, and improving every day**.
+
+By the end of these 30 days, the goal is to have stronger Java fundamentals, better DSA problem-solving skills, and a deeper understanding of Object-Oriented Programming.
+
+---
+
+## 🔥 Keep Coding. Keep Learning. Keep Improving.
+
+**5 / 30 Days Completed — The Journey Continues! 🚀**
