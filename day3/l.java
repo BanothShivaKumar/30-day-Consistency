@@ -154,7 +154,8 @@ public class l {
         }
         int lh=sumpofnodes(root.left);
         int rh=sumpofnodes(root.right);
-        return (lh+rh)+root.data;
+        int max=(lh+rh)+root.data;
+        return max;
     }
     public static void main(String[] args) {
         Node a=new Node(10);
