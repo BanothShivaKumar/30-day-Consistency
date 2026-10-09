@@ -89,6 +89,10 @@ class bird extends animal
     {
         System.out.println("Fly");
     }
+    void sound()
+    {
+        System.out.println("Cheep cheep");
+    }
 }
 class parrot extends animal{
     void sound()
@@ -104,6 +108,7 @@ public class inherit
         b.eat();
         b.sleep();
         b.fly();
+        b.sound();
         parrot a=new parrot();
         a.eat();
         a.sleep();
