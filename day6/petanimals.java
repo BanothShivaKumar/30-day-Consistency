@@ -5,6 +5,10 @@ public class petanimals
     {
         System.out.println("This is the pet animal and i am dog");
     }
+    public void bird()
+    {
+        System.out.println("This is the pet animal and i am bird");
+    }
     public void cat()
     {
         System.out.println("This is the pet animal and i am cat");
