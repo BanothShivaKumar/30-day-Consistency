@@ -22,7 +22,6 @@ public class sub
 
             }
         }
-        System.out.println("The maximum sum is:");
         System.out.print(maxsum);
     }
 }
