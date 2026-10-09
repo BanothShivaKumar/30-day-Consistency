@@ -17,7 +17,7 @@ This repository documents my journey of practicing **Java programming consistent
 | Day 3  | DSA Practice, Stack & Binary Tree          | ✅ Completed |
 | Day 4  | Top View of Tree & Subtree of Another Tree | ✅ Completed |
 | Day 5  | Object-Oriented Programming & Inheritance  | ✅ Completed |
-| Day 6  | Coming Soon                                | ⏳           |
+| Day 6  | Creating package Class                     | ✅ Completed |
 | Day 7  | Coming Soon                                | ⏳           |
 | Day 8  | Coming Soon                                | ⏳           |
 | Day 9  | Coming Soon                                | ⏳           |
