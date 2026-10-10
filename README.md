@@ -18,7 +18,7 @@ This repository documents my journey of practicing **Java programming consistent
 | Day 4  | Top View of Tree & Subtree of Another Tree | ✅ Completed |
 | Day 5  | Object-Oriented Programming & Inheritance  | ✅ Completed |
 | Day 6  | Creating packages in java                  | ✅ Completed |
-| Day 7  | Coming Soon                                | ⏳           |
+| Day 7  | Exception,finally in java                  | ✅ Completed |
 | Day 8  | Coming Soon                                | ⏳           |
 | Day 9  | Coming Soon                                | ⏳           |
 | Day 10 | Coming Soon                                | ⏳           |
