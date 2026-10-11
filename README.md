@@ -19,7 +19,7 @@ This repository documents my journey of practicing **Java programming consistent
 | Day 5  | Object-Oriented Programming & Inheritance  | ✅ Completed |
 | Day 6  | Creating packages in java                  | ✅ Completed |
 | Day 7  | Exception,finally in java                  | ✅ Completed |
-| Day 8  | Coming Soon                                | ⏳           |
+| Day 8  | Java collection framework                  | ✅ Completed |
 | Day 9  | Coming Soon                                | ⏳           |
 | Day 10 | Coming Soon                                | ⏳           |
 | Day 11 | Coming Soon                                | ⏳           |
