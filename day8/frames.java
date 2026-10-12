@@ -19,14 +19,21 @@ import java.util.*;
 public class frames
 {
     public static void main(String[] args)  {
-        HashSet hs=new HashSet();
-        hs.add(10);
-        hs.add(20);
-        hs.add(30);
-        hs.add(40);
-        hs.add("shiva")
-        System.out.print(hs);
-
+        int a[]={1,1,1,2,3,5,5,5,6,6,9,9,9,9};
+        HashSet<Integer> hs=new HashSet<>();
+        while(!hs.isEmpty())
+        {
+            System.out.print("The set is empty");
+        }
+        for(int i=0;i<a.length;i++)
+        {
+            hs.add(a[i]);
+        }
+        System.out.println("unique elements ");
+        for(int e:hs)
+        {
+            System.out.print(e+" ");
+        }
 
     }
 }
