@@ -20,9 +20,9 @@ This repository documents my journey of practicing **Java programming consistent
 | Day 6  | Creating packages in java                  | ✅ Completed |
 | Day 7  | Exception,finally in java                  | ✅ Completed |
 | Day 8  | Java FrameWork--set,interface              | ✅ Completed |
-| Day 9  | Filecreation                               | ✅ Completed |
-| Day 10 | Coming Soon                                | ⏳           |
-| Day 11 | Coming Soon                                | ⏳           |
+| Day 9  | File creation                              | ✅ Completed |
+| Day 10 | Event Handler                              | ✅ Completed |
+| Day 11 | Swing and Interfaces                       | ✅ Completed |
 | Day 12 | Coming Soon                                | ⏳           |
 | Day 13 | Coming Soon                                | ⏳           |
 | Day 14 | Coming Soon                                | ⏳           |
