@@ -10,7 +10,7 @@ class Event extends Frame implements ActionListener {
         tf.setBounds(60, 50, 170, 20);
 
         Button b = new Button("Show");
-        b.setBounds(100, 150, 75, 40);
+        b.setBounds(120, 150, 75, 40);
 
         b.addActionListener(this);
 
